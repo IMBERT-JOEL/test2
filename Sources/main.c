@@ -54,6 +54,8 @@ int main(void)
    for(;;)
    {
 	   // putain fais chier!!!
+
+	   // trop cool
    }
 
 
