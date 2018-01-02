@@ -53,7 +53,7 @@ int main(void)
   /* Write your code here */
    for(;;)
    {
-	   // putain fais chier!!!
+
 	   // et ca marche
 
    }
