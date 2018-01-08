@@ -77,11 +77,11 @@
       <File Name="Static_Code/PDD/FTM_PDD.h" FileDate="2018-01-02, 16:41:52" FileAge="1514907712985" FileType="1048576" />
       <File Name="Documentation/test2_Settings.xml" FileDate="2018-01-02, 16:41:53" FileAge="1514907713011" FileType="3072" />
       <File Name="Static_Code/PDD/FTFE_PDD.h" FileDate="2018-01-02, 16:41:53" FileAge="1514907713170" FileType="1048576" />
-      <File Name="Sources/main.c" FileDate="2018-01-02, 16:42:29" FileAge="1514907749694" FileType="128" />
+      <File Name="Sources/main.c" FileDate="2018-01-08, 16:25:42" FileAge="1515425142192" FileType="128" />
       <File Name="Static_Code/System/Peripherals_Init.h" FileDate="2018-01-02, 16:41:52" FileAge="1514907712987" FileType="1048576" CompNumb="4" />
       <File Name="Static_Code/System/Peripherals_Init.c" FileDate="2018-01-02, 16:41:53" FileAge="1514907713103" FileType="1048576" CompNumb="4" />
       <File Name="Static_Code/PDD/CMT_PDD.h" FileDate="2018-01-02, 16:41:53" FileAge="1514907713128" FileType="1048576" />
-      <File Name="Generated_Code/CPU_Config.h" FileDate="2018-01-02, 16:42:35" FileAge="1514907755202" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/CPU_Config.h" FileDate="2018-01-08, 16:25:47" FileAge="1515425147742" FileType="45637" CompNumb="4" />
       <File Name="Static_Code/PDD/SCB_PDD.h" FileDate="2018-01-02, 16:41:53" FileAge="1514907713060" FileType="1048576" />
       <File Name="Generated_Code/PE_LDD.h" FileDate="2018-01-02, 16:41:53" FileAge="1514907713124" FileType="45637" CompNumb="4" />
       <File Name="Generated_Code/PE_LDD.c" FileDate="2018-01-02, 16:41:53" FileAge="1514907713140" FileType="45637" CompNumb="4" />
@@ -99,5 +99,5 @@
       <File Name="Static_Code/PDD/USBDCD_PDD.h" FileDate="2018-01-02, 16:41:53" FileAge="1514907713158" FileType="1048576" />
     </GeneratedByPE>
   </GeneratedFilesList>
-  <CodeGenReference>4</CodeGenReference>
+  <CodeGenReference>5</CodeGenReference>
 </CodeGenerationInfo>
